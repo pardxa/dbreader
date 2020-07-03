@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS `TBL`(
+    `id`          INTEGER PRIMARY KEY,
+    `Column1`       VARCHAR(100) NOT NULL
+);

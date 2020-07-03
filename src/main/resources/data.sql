@@ -1,0 +1,2 @@
+INSERT INTO TBL VALUES (111, 'Msg from Row111');
+INSERT INTO TBL VALUES (222, 'Msg from Row222');
